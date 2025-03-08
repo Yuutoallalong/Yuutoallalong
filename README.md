@@ -24,15 +24,17 @@
 ---
 
 ### 🚀 My Projects
+🔹 [**Portfolio**](https://yuutoutopia.duckdns.org/) – My Portfolio Site (React + Typescript + Vite)
+🔹 [**SolarManage**](https://solarizz.duckdns.org/login/) – Solar Panel Manangement Platform (Python/Django + JS + TailwindCSS) 
+🔹 [**FlashBook Project**](https://flashbook.duckdns.org/) – Word learning platform (Python/Django + JS)  
+🔹 [**AuthenAPI**](https://github.com/Yuutoallalong/AuthenAPI) – My Own api for authen (JS + Node.js)  
+🔹 [**NeoVault**](https://github.com/Yuutoallalong/NeoVault) – Secure cloud storage (Dart + Firebase)
 🔹 [**Remind-Me-There**](https://github.com/Yuutoallalong/Remind-Me-There) – Location-based reminder app (Dart)  
-🔹 [**FlashBook Project**](https://github.com/Yuutoallalong/FlashBookProject) – Word learning platform (Python/Django)  
-🔹 [**NeoVault**](https://github.com/Yuutoallalong/NeoVault) – Secure cloud storage (Dart + Firebase)  
-
 ---
 
 ### 🌱 Currently Learning
-- 📚 CI/CD with GitHub Actions
-- 🌩️ AWS & Cloud Deployment
+- 📚 Automation CI/CD, Kubernetes, AWS & Cloud Deployment for DevOps
+- 🌩️ Practicing different tech stacks for Full Stack Development
 - 🔒 Cybersecurity Techniques
 
 ---
@@ -41,3 +43,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parathakorn-thanamee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=codeforces&logoColor=white)](https://yuutoutopia.duckdns.org)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@YuutoUtopia)
+
+Gym Goer 💪 | Tech Explorer 🚀 
