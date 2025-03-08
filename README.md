@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuu
 🔹 Computer Engineering Student at Thammasat University  
-🔹 Passionate about Full-Stack Development, DevOps, and Cyber Security  
+🔹 Passionate about Full-Stack Development, DevOps, Cyber Security and SAP consult  
 🔹 Currently building cloud storage, Flashbook game, and practicing API development  
 
 ---
