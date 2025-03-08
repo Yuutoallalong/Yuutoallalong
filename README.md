@@ -24,12 +24,24 @@
 ---
 
 ### 🚀 My Projects
-🔹 [**Portfolio**](https://yuutoutopia.duckdns.org/) – My Portfolio Site (React + Typescript + Vite)
-🔹 [**SolarManage**](https://solarizz.duckdns.org/login/) – Solar Panel Manangement Platform (Python/Django + JS + TailwindCSS) 
-🔹 [**FlashBook Project**](https://flashbook.duckdns.org/) – Word learning platform (Python/Django + JS)  
-🔹 [**AuthenAPI**](https://github.com/Yuutoallalong/AuthenAPI) – My Own api for authen (JS + Node.js)  
-🔹 [**NeoVault**](https://github.com/Yuutoallalong/NeoVault) – Secure cloud storage (Dart + Firebase)
-🔹 [**Remind-Me-There**](https://github.com/Yuutoallalong/Remind-Me-There) – Location-based reminder app (Dart)  
+- **[Portfolio](https://yuutoutopia.duckdns.org/)**  
+  _My Portfolio Site (React + TypeScript + Vite)_
+
+- **[SolarManage](https://solarizz.duckdns.org/login/)**  
+  _Solar Panel Management Platform (Python/Django + JS + TailwindCSS)_
+
+- **[FlashBook Project](https://flashbook.duckdns.org/)**  
+  _Word Learning Platform (Python/Django + JS)_
+
+- **[AuthenAPI](https://github.com/Yuutoallalong/AuthenAPI)**  
+  _My Own API for Authentication (JS + Node.js)_
+
+- **[NeoVault](https://github.com/Yuutoallalong/NeoVault)**  
+  _Secure Cloud Storage (Dart + Firebase)_
+
+- **[Remind-Me-There](https://github.com/Yuutoallalong/Remind-Me-There)**  
+  _Location-Based Reminder App (Dart)_
+
 ---
 
 ### 🌱 Currently Learning
