@@ -6,14 +6,21 @@
 ---
 
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ---
 
 ### 📈 GitHub Stats
@@ -44,10 +51,9 @@
 ---
 
 ### 🌱 Currently Learning
-- 📚 Automation CI/CD, Kubernetes, AWS & Cloud Deployment for DevOps
+- 📚 Automation CI/CD, Kubernetes, Jerkins and anything for DevOps roles
 - 🌩️ Practicing different tech stacks for Full Stack Development
 - 🔒 Cybersecurity Techniques
-
 ---
 
 ### 📫 Let's Connect!
@@ -55,4 +61,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=codeforces&logoColor=white)](https://yuutoutopia.duckdns.org)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@YuutoUtopia)
 
-Gym Goer 💪 | Tech Explorer 🚀 
+### 🚀 About Me
+💻 Full-Stack Developer | 🌍 Tech Explorer | 💪 Gym Enthusiast  
+📈 Investor | 🌐 Economy & Geopolitics Follower 
