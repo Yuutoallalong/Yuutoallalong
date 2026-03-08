@@ -68,5 +68,7 @@
 
 ###  About me
 Currently intern as : Junior SAP Developer
-Interests : Full-Stack Developer | DevOps | Cyber Security | Semiconductor Technology 
+
+Interests : Full-Stack Developer | DevOps | Cyber Security | Semiconductor Technology
+
 Other Interests 💪 Gym | 🚀 Space Tech | 📈 Investing | 🌐 Economy & Geopolitics Follower 
