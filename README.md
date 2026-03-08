@@ -34,12 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Yuu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuutoallalong&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuutoallalong&layout=compact&theme=radical)
-
----
-
 ### 🚀 My Projects
 - **[Portfolio](https://yuutoutopia.duckdns.org/)**  
   _My Portfolio Site (React + TypeScript + Vite)_
