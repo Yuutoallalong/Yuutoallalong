@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yuu
 🔹 Computer Engineering Student at Thammasat University
 
-🔹 Interested Positions: Full-Stack Development, DevOps, Cyber Security and SAP
+🔹 Interested Positions: SAP , Full-Stack Development, DevOps, Cyber Security
 
 🔹 Currently building SAP RAP Project
 
@@ -69,6 +69,6 @@
 ###  About me
 Currently intern as : Junior SAP Developer
 
-Interests : Full-Stack Developer | DevOps | Cyber Security | Semiconductor Technology
+Interests : SAP | Full-Stack Developer | DevOps | Cyber Security | Semiconductor Technology
 
 Other Interests 💪 Gym | 🚀 Space Tech | 📈 Investing | 🌐 Economy & Geopolitics Follower 
