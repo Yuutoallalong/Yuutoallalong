@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Yuu
-🔹 Computer Engineering Student at Thammasat University  
+🔹 Computer Engineering Student at Thammasat University
+
 🔹 Passionate about Full-Stack Development, DevOps, Cyber Security and SAP
+
 🔹 Currently building SAP RAP Project
+
 🔹 Long term Goal : Space Tech (Something related to migrate human to new planet cause sun have life-span) 
 
 ---
