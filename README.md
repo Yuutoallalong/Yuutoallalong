@@ -59,7 +59,7 @@
 
 ### 🌱 Currently Learning
 - 📚 Automation CI/CD, Kubernetes, Jerkins and anything for DevOps roles
-- 🌩️ Practicing different tech stacks for Full Stack Development
+- 🌩️ Practicing different tech stacks for SAP | Full-Stack | DevOps | Cyber Security 
 - 🔒 Cybersecurity Techniques
 ---
 
@@ -68,6 +68,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=codeforces&logoColor=white)](https://yuutoutopia.duckdns.org)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@YuutoUtopia)
 
-### 🚀 About Me
-💻 Full-Stack Developer | 🌍 Tech Explorer | 💪 Gym Enthusiast  
-📈 Investor | 🌐 Economy & Geopolitics Follower 
+###  About me
+Currently intern as : Junior SAP Developer
+Interests : Full-Stack Developer | DevOps | Cyber Security | Semiconductor Technology 
+Other Interests 💪 Gym | 🚀 Space Tech | 📈 Investing | 🌐 Economy & Geopolitics Follower 
