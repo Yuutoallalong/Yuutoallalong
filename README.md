@@ -27,7 +27,7 @@ Django | Node.js
 GitHub Actions | Docker | Kubernetes | Postman | Wireshark | Cisco Packet Tracer
 
 #### CSP (Cloud Services Provider)
-AWS (EC2 S3 IAM CloudFront ALB)
+AWS (IAM S3 EC2 ALB RDS DynamoDB CloudFront VPC)
 
 #### OS
 Linux (Ubuntu AWS deployment, Kali Security)
