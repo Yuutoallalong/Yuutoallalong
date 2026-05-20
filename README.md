@@ -70,7 +70,7 @@ Jun 2024 - Jul 2024
 - Investigated vulnerabilities in unpatched Windows environments and documented structured remediation strategies.
 
 ### Currently Learning
-- Terraform CI/CD, Kubernetes, Jerkins, Prometheus, Graphana etc;| Cloud Engineer
+- Terraform CI/CD, Kubernetes, Jerkins, Prometheus, Graphana etc; | Cloud Engineer
 - Learning SAP ABAP new concepts, best practice from many sources | SAP Technical Consultant
 ---
 
