@@ -11,36 +11,37 @@
 
 ###  Tech Stack
 
-#### Programming Languages
-![ABAP]
-![Python]
-![Dart]
-![JavaScript]
-![TypeScript]
-![Java]
-![SQL]
+#### Non - SAP Programming Languages
+JavaScript | Python | Dart | Java | SQL | PHP
 
-#### Frameworks & Libraries  
-![Django]
-![Node.js]
-![Flutter]
-![Vite]
-![TailwindCSS]
+#### SAP
+ABAP | ECC | S/4 Hana| RAP | SAP BTP | Fiori
 
-#### Tools & Platforms  
-![GitHub Actions]
-![Docker]
-![Kubernetes]
-![Firebase]
+#### Front End Frameworks & Libraries  
+Flutter | Vite | TailwindCSS | React
 
+#### Back End Frameworks & Libraries
+Django | Node.js 
+
+#### Tools
+GitHub Actions | Docker | Kubernetes | Postman | Wireshark | Cisco Packet Tracer
+
+#### CSP (Cloud Services Provider)
+AWS (EC2 S3 IAM CloudFront ALB)
+
+#### OS
+Linux (Ubuntu AWS deployment, Kali Security)
+
+#### Databases
+MongoDB | PostgreSQL | Firebase
 ---
 
 ### My Projects
 
-- **[SolarManage](https://solarizz.duckdns.org/login/)**  
+- **[SolarManage](https://solarizz.duckdns.org/login/)**   (AWS EC2 Expired)
   _Solar Panel Management Platform (Python/Django + JS + TailwindCSS)_
 
-- **[FlashBook Project](https://flashbook.duckdns.org/)**  
+- **[FlashBook Project](https://flashbook.duckdns.org/)**  (AWS EC2 Expired)
   _Word Learning Platform (Python/Django + JS)_
 
 - **[NeoVault](https://github.com/Yuutoallalong/NeoVault)**  
@@ -50,17 +51,31 @@
   _Location-Based Reminder App (Dart)_
 
 ---
+### Experience
+Zygen Company Limited									           		                                
+Bangkok Thailand
+Junior SAP ABAP Developer (Internship) 							         	                 
+Jun 2025 – Apr 2026
+•	Demonstrated strong ownership and communication by collaborating with HR and functional teams to gather requirements and analyze complex workflows.
+•	Translated business requirements into precise Technical Specifications for system enhancements and process optimization.
+•	Gained enterprise cloud exposure by developing a Fiori application within SAP BTP (Cloud Environment) using the RAP model.
+•	Applied critical thinking to troubleshoot, debug, and enhance backend programs across large-scale enterprise environments (ECC & S/4HANA).
+
+National Cyber Security Agency (Thailand)				                                    	          	 		  
+Bangkok Thailand
+Internship											                   
+Jun 2024 - Jul 2024
+•	Developed Python automation scripts to optimize organizational workflows and data processing operations.
+•	Analyzed network traffic with Wireshark to identify anomalies, evaluate firewall concepts, and enhance system security.
+•	Investigated vulnerabilities in unpatched Windows environments and documented structured remediation strategies.
 
 ### Currently Learning
-- Terraform CI/CD, Kubernetes, Jerkins and anything | Cloud Engineer
-- Learning new concepts, best practice from many sources | SAP Technical Consultant
-- Lean to SAP BTP to use skill of both worlds.
+- Terraform CI/CD, Kubernetes, Jerkins, Prometheus, Graphana etc;| Cloud Engineer
+- Learning SAP ABAP new concepts, best practice from many sources | SAP Technical Consultant
 ---
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parathakorn-thanamee)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=codeforces&logoColor=white)](https://yuutoutopia.duckdns.org)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@YuutoUtopia)
 
 ###  About me
 Currently intern as : Junior SAP Developer
