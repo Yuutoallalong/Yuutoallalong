@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yuu
 🔹 Computer Engineering Student at Thammasat University
 
-🔹 Interested Positions: SAP , Full-Stack Development, DevOps, Cyber Security
+🔹 Interested Positions: SAP Technical Consultant, Cloud Engineer
 
 🔹 Currently building SAP RAP Project
 
