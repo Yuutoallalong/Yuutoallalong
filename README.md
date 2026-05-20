@@ -56,18 +56,18 @@ Zygen Company Limited
 Bangkok Thailand
 Junior SAP ABAP Developer (Internship) 							         	                 
 Jun 2025 – Apr 2026
-•	Demonstrated strong ownership and communication by collaborating with HR and functional teams to gather requirements and analyze complex workflows.
-•	Translated business requirements into precise Technical Specifications for system enhancements and process optimization.
-•	Gained enterprise cloud exposure by developing a Fiori application within SAP BTP (Cloud Environment) using the RAP model.
-•	Applied critical thinking to troubleshoot, debug, and enhance backend programs across large-scale enterprise environments (ECC & S/4HANA).
+- Demonstrated strong ownership and communication by collaborating with HR and functional teams to gather requirements and analyze complex workflows.
+- Translated business requirements into precise Technical Specifications for system enhancements and process optimization.
+- Gained enterprise cloud exposure by developing a Fiori application within SAP BTP (Cloud Environment) using the RAP model.
+- Applied critical thinking to troubleshoot, debug, and enhance backend programs across large-scale enterprise environments (ECC & S/4HANA).
 
 National Cyber Security Agency (Thailand)				                                    	          	 		  
 Bangkok Thailand
 Internship											                   
 Jun 2024 - Jul 2024
-•	Developed Python automation scripts to optimize organizational workflows and data processing operations.
-•	Analyzed network traffic with Wireshark to identify anomalies, evaluate firewall concepts, and enhance system security.
-•	Investigated vulnerabilities in unpatched Windows environments and documented structured remediation strategies.
+- Developed Python automation scripts to optimize organizational workflows and data processing operations.
+- Analyzed network traffic with Wireshark to identify anomalies, evaluate firewall concepts, and enhance system security.
+- Investigated vulnerabilities in unpatched Windows environments and documented structured remediation strategies.
 
 ### Currently Learning
 - Terraform CI/CD, Kubernetes, Jerkins, Prometheus, Graphana etc;| Cloud Engineer
