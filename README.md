@@ -78,7 +78,6 @@ Jun 2024 - Jul 2024
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parathakorn-thanamee)
 
 ###  About me
-Currently intern as : Junior SAP Developer
 
 Interests : SAP Technical Consultants | Cloud Engineer
 
