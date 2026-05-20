@@ -38,10 +38,10 @@ MongoDB | PostgreSQL | Firebase
 
 ### My Projects
 
-- **[SolarManage](https://solarizz.duckdns.org/login/)**   (AWS EC2 Expired)
+- **[SolarManage](https://solarizz.duckdns.org/login/) (AWS EC2 Expired)**   
   _Solar Panel Management Platform (Python/Django + JS + TailwindCSS)_
 
-- **[FlashBook Project](https://flashbook.duckdns.org/)**  (AWS EC2 Expired)
+- **[FlashBook Project](https://flashbook.duckdns.org/) (AWS EC2 Expired)**  
   _Word Learning Platform (Python/Django + JS)_
 
 - **[NeoVault](https://github.com/Yuutoallalong/NeoVault)**  
