@@ -18,13 +18,13 @@ JavaScript | Python | Dart | Java | SQL | PHP
 ABAP | ECC | S/4 Hana| RAP | SAP BTP | Fiori
 
 #### Front End Frameworks & Libraries  
-Flutter | Vite | TailwindCSS | React
+Flutter | Vite | Tailwind | React
 
 #### Back End Frameworks & Libraries
 Django | Node.js 
 
 #### Tools
-GitHub Actions | Docker | Kubernetes | Postman | Wireshark | Cisco Packet Tracer
+GitHub Actions | Docker | Kubernetes | Postman | Wireshark | Cisco Packet Tracer | Figma
 
 #### CSP (Cloud Services Provider)
 AWS (IAM S3 EC2 ALB RDS DynamoDB CloudFront VPC)
@@ -34,6 +34,7 @@ Linux (Ubuntu AWS deployment, Kali Security)
 
 #### Databases
 MongoDB | PostgreSQL | Firebase
+
 ---
 
 ### My Projects
